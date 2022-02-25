@@ -67,7 +67,6 @@ pubmatic.com, 157986, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158500, RESELLER, 5d62403b186f2ace
 gm.mobfox.com, 303-b4233, RESELLER
 lemmatechnologies.com, 680, DIRECT, 7829010c5bebd1fb
-google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
 smartadserver.com, 3564, RESELLER
 smartyads.com, 1272, DIRECT, fd2bde0ff2e62c5d
